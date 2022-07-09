@@ -1,6 +1,6 @@
 # Interval Calculator
 
-### Develop a java Spring Web application with the following configuration:
+### Develop a Java Spring Web application with the following configuration:
 
 1. It has one action that does the following:
 * receives a set of intervals in JSON format;
