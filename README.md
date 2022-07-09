@@ -15,6 +15,7 @@
 3. If possible, try securing the endpoint with an **API key** using spring security.
 
 Example input:
+~~~
 [
 	 {
 		 "id": 0,
@@ -41,8 +42,10 @@ Example input:
 		 "end": "30/01/2015 08:35:50"
 	 }
 ]
+~~~
 
 Example output:
+~~~
 [
 	 {
 		 "id": 0,
@@ -79,3 +82,4 @@ Example output:
 		 "break": "13h48m"
 	}
 ]
+~~~
